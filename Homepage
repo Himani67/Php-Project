@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="gg.css"
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<div class="d1">
+    <li id="m">Menu</li>
+    <li><img src="logo.png" height="60px" width="200px" id="hum"></li>
+    <li id="u">English|नेपाली</li></div>
+<p><img src="orange.webp"height="2px" width="1500px" id="hum2"></p>
+<div class="d2">
+    <p>Speak up <br>Take chances <br>Respect Diveristy <br>Seize the moment <br>Think out of the box <br>Do something amazing <Br>Be the change you want to see</p>
+</div>
+<div class="d3">
+    <li><img src="1.jpg" height="350px"></li>&nbsp;&nbsp;
+    <li><img src="2.jpg" height="350px"></li>&nbsp;&nbsp;
+    <li><img src="3.jpg" height="350px"></li>&nbsp;&nbsp;
+</div>
+<div class="ni">
+    <p id="gu">Sifal School in 2021</p>
+</div>
+<div>
+    <button id="yy"><IMG SRC="44.png" id="xx"><b><p id="zz">LESSON PLAN (I-IV)</p></b></button>
+    <button id="mm"><IMG SRC="55.png" id="xx"><b><p id="zz">LESSON PLAN (V-VIII)</p></b></button>
+    <button id="nn"><IMG SRC="66.png" id="xx"><b><p id="zz">LESSON PLAN (IX-X)</p></b></button>
+    <button id="oo"><IMG SRC="77.png" id="xx"><b><p id="zz">CALENDAR</p></b></button>
+    <button id="pp"><IMG SRC="77.png" id="xx"><b><p id="zz">BOOK LIST</p></b></button>
+    <button id="qq"><IMG SRC="88.png" id="xx"><b><p id="zz">LESSON PLAN (XI-XII)</p></b></button>
+</div>
+<div class="mi">
+    <p id="su">Why DSS?</p>
+</div>
+<div>
+    <button id="rr"><p id="ss">ESSENTIAL<br>SKILLS</p></button>
+    <button id="tt"><p id="ss">LANGUAGE<br>SKILLS</p></button>
+    <button id="uu"><p id="ss">EXTRA CURRICULAR <br>ACTIVITES</p></button>
+    <button id="vv"><p id="ss">ACADEMIC<br>FUNDAMENTALS</p></button>
+</div>
+<div class="mi">
+    <p id="su">Publications </p>
+</div>
+<div>
+    <button id="aa"><IMG SRC="99.png" id="xx"><b><p id="zz">NEWSLETTER</p></b></button>
+    <button id="bb"><IMG SRC="100.png" id="ll"><b><p id="kk">TERM SUMMARY</p></b></button>
+    <button id="cc"><IMG SRC="66.png" id="xx"><b><p id="zz">THE DEERWALKER</p></b></button>
+    <button id="dd"><IMG SRC="200.png" id="xx"><b><p id="zz">STUDENT CORNER</p></b></button>
+    <button id="ee"><IMG SRC="300.png" id="xx"><b><p id="zz">ANALYSIS REPORT</p></b></button>
+    <button id="ff"><IMG SRC="88.png" id="xx"><b><p id="zz">PODCAST</p></b></button>
+</div>
+<div class="ki">
+    <p id="su">News and Events </p>
+</div>
+<div>
+    <img src="back.jpg" height="200px" width="400px" class="hh">
+    <p id="nu">DSS BACK TO SCHOOL NIGHT | GRADE 1-3</p>
+    <p id="k">Sifal School invites all the parents of elementary school level to join in the DSS Back to School
+        <br>Night on Jestha 6, 4:15 PM onwards.</p>
+    <p id="k"><a href="https://deerwalk.edu.np/sifalschool/news-and-events/details/8" style="text-decoration: none;" class="gh">Read More→</a></p>
+    <p id="k">By Alisha</p>
+    <p id="qw"><i>2022-05-18</i></p>
+    <img src="blue.png" height="2px" width="1300px" id="mn">
+</div>
+<div id="hello">
+    <img src="night.jpg" height="200px" width="400px" class="hh">
+    <p id="ccu">DEERWALK SIFAL NIGHT | GRADE 1 TO 3</p>
+    <p id="k">Date: Chaitra 4, 2078
+        <br>Registration: 3:35 PM to 3:55 PM
+        <br>Program: 4:00 PM to 6:45 PM
+        <br>Venue: Sagarmatha Hall (High School Block, Deerwalk Complex)</p>
+    <p id="k"><a href="https://deerwalk.edu.np/sifalschool/news-and-events/details/6" style="text-decoration: none;" class="gh">Read More→</a></p>
+    <p id="k">By Alisha</p>
+    <p id="qw"><i>2022-03-14</i></p>
+    <img src="blue.png" height="2px" width="1300px" id="mn">
+</div>
+<div id="hi">
+    <img src="alumini.jpg" height="200px" width="400px" class="hh">
+    <p id="mmu">ALUMNI GET TOGETHER</p>
+    <p id="k">Alumni Get-Together:
+        <br>An open invitation to all the DSS High School graduates.
+        <br>Event Date: Falgun 27,2078
+        <br>Event Time: 4:30PM to 6:00PM</p>
+    <p id="k"><a href="https://deerwalk.edu.np/sifalschool/news-and-events/details/4" style="text-decoration: none;" class="gh">Read More→</a></p>
+    <p id="k">By Alisha Shakya</p>
+    <p id="qw"><i>2022-03-2</i></p>
+    <button id="blue">ALL EVENTS</button>
+</div>
+<div class="abir">
+    <p id="su">School and Media</p>
+</div>
+<div>
+    <p id="noo"><b>सबै नेपालीले पढ्नै पर्ने पुस्तक</b>
+        <br>-Meemansha Acharya
+    </p>
+    <button id="pink">SEE MORE</button>
+    <img src="grey.jpg" height="2px" width="1300px" id="nm">
+</div>
+<div>
+    <p id="noo"><b>भावीले लेखेको मेटेर मेटिदैन
+        </b>
+        <br>-Sambhavya Pandey
+    </p>
+    <button id="mishbir">SEE MORE</button>
+    <img src="grey.jpg" height="2px" width="1300px" id="nm">
+</div>
+<div>
+    <p id="noo"><b>विश्व भ्रमण गराउने पुस्तक देश देशावर
+        </b>
+        <br>-Pranjal Khatiwada
+    </p>
+    <button id="mishbir">SEE MORE</button>
+    <img src="grey.jpg" height="2px" width="1300px" id="nm">
+</div>
+<div>
+    <p id="noo"><b>मेरो देश
+        </b>
+        <br>-Prastut Chandra Baral
+    </p>
+    <button id="mishbir">SEE MORE</button>
+    <img src="grey.jpg" height="2px" width="1300px" id="nm">
+    <button id="WHITE">VIEW ALL</button>
+</div>
+<div class="ddd">
+    <li><img src="students.png" id="raabta" height="150px" width="170px"><br>
+        <p id="wee">Students</p><br>
+        <p id="hkk">353</p></li>
+    <li id="mandn"><img src="spc.png" id="raabta"height="150px" width="200px"><br>
+        <p id="wee">Students per class</p><br>
+        <p id="hkk">24</p></li>
+    <li id="handm"><img src="teacher.png" id="raabta"height="150px" width="200px"><br>
+        <p id="wee">Teachers</p><br>
+        <p id="hkk">60</p></li>
+    <li id="kandm"><img src="studentteacher.png" id="raabta"height="150px" width="200px"><br>
+        <p id="wee">Student and Teachers Ratio</p><br>
+        <p id="hkk">5:1</p></li>
+</div>
+<div><img src="DLCAD.jpg" height="500px" width="1500px" id="ftf"></div>
+<div id="gug">
+    <p id="mama">Learn More About Us</p>
+    <li><img src="bg2.jpg" height="300px" width="500px" class="kuhu"></li>
+    <li><img src="bg2.jpg" height="300px" width="500px" class="kunal"></li>
+    <div class="carry">
+        <p id="lll">Deerwalk Training Center</p>
+        <button id="clue">EXPLORE</button>
+    </div>
+    <div class="marry">
+        <p id="lll">Deerwalk Insititute of Technology</p>
+        <button id="clue">EXPLORE</button>
+    </div>
+    <div id="bluebg">
+        <p class="yudkbh"><img src="logo.png"height="60px" width="200px">
+            <br>Sifal, School Kathmandu
+            <br>contact@sifal.deerwalk.edu.np
+            <br>014591240|9851064445
+        </p>
+        <p class="samaina">
+            About us
+            <br>Courses
+            <br>Publications
+            <br>DSS Clubs
+        </p>
+        <p class="preedit">
+            News and Events
+            <br>Why DSS?
+            <br>Admission
+            <br>Contact Us
+        </p>
+        <img src="contact.png" class="byee">
+    </div>
+</div>
+</body>
+</html>
