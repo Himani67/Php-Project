@@ -1,0 +1,145 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body{
+            font-family: Calibri, Helvetica, sans-serif;
+            background-color:seagreen;
+        }
+        .container {
+            padding: 50px;
+            background-color:White;
+        }
+
+        input[type=text], input[type=password], textarea {
+            width: 100%;
+            padding: 15px;
+
+            margin: 5px 0 22px 0;
+            display: inline-block;
+            border: none;
+            background: #f1f1f1;
+        }
+        input[type=text]:focus, input[type=password]:focus {
+            outline: none;
+        }
+        div {
+            padding: 10px 0;
+        }
+        hr {
+            border: 1px solid #f1f1f1;
+            margin-bottom: 25px;
+        }
+        .registerbtn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 16px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            opacity: 0.9;
+        }
+        .registerbtn:hover {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+<form>
+
+    <div class="container">
+
+        <center><img src="https://trademarks.justia.com/media/image.php?serial=85331310"></center>
+
+        <hr>
+        <center>  <h1>Admission Form DSS</h1> </center>
+        <center>  <h3>Grade 1-9 </h3> </center>
+        <left><h3>Student's Information</h3></left>
+        <label> Firstname </label>
+        <input type="text" name="firstname" placeholder= "Firstname" size="15" required />
+        <label> Middlename: </label>
+        <input type="text" name="middlename" placeholder="Middlename" size="15" required />
+        <label> Lastname: </label>
+        <input type="text" name="lastname" placeholder="Lastname" size="15"required />
+        <div>
+            <label>
+                Applying for Grade :
+            </label>
+
+            <select>
+                <option value="Grade">Grade</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+            </select>
+        </div>
+        <div>
+            <label> GPA obtained in pervious grade </label>
+            <input type="number" name="GPA" placeholder= "GPA" size="5" required />
+        </div>
+        <div>
+            <label>
+                Gender :
+            </label><br>
+            <input type="radio" value="Male" name="gender" checked > Male
+            <input type="radio" value="Female" name="gender"> Female
+            <input type="radio" value="Other" name="gender"> Other
+
+        </div>
+        <label>
+            Phone :
+        </label>
+        <input type="text" name="phone" placeholder="phone no." size="10"/ optional>
+        <label>
+            Email :
+        </label>
+        <input type="text" name="Enter Email" placeholder="Enter Email." size="100"/ required>
+        <label>
+            Current Address :
+        </label>
+        <input type="text" name="Address" placeholder="Enter Address." size="100"/ required>
+        <left><h3>Parent's information</h3></left>
+        <label> Father's Name </label>
+        <input type="text" name="Full name" placeholder= "Fullname" size="15" required />
+        <label>
+            Phone :
+        </label>
+        <input type="text" name="phone" placeholder="phone no." size="10"/ optional>
+        <label>
+            Email :
+        </label>
+        <input type="text" name="Enter Email" placeholder="Enter Email." size="100"/ required>
+        <label>
+            <label> Mother's Name </label>
+            <input type="text" name="Full name" placeholder= "Fullname" size="15" required />
+            <label>
+                Phone :
+            </label>
+            <input type="text" name="phone" placeholder="phone no." size="10"/ optional>
+            <label>
+                Email :
+            </label>
+            <input type="text" name="Enter Email" placeholder="Enter Email." size="100"/ required>
+            <label>
+
+                <left><h3>Guardian's information (If any)</h3></left>
+                <label>  Name </label>
+                <input type="text" name="Full name" placeholder= "Fullname" size="15" optional />
+                <label>
+                    Phone :
+                </label>
+                <input type="text" name="phone" placeholder="phone no." size="10"/ optional>
+                <label>
+                    Email :
+                </label>
+                <input type="text" name="Enter Email" placeholder="Enter Email." size="100"/ optional>
+                <button type="submit" class="registerbtn">register</button>
+</form>
+</body>
+</html>
